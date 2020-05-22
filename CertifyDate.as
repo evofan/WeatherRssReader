@@ -24,16 +24,16 @@
 			trace("my_array:" + my_array);
 
 			var year:String=String(my_array[0]);
-			trace("n_year:"+year);
+			trace("year:"+year);
 
 			var month:String=String(my_array[1]);
-			trace("n_month:"+month);
+			trace("month:"+month);
 
 			var date:String=String(my_array[2]);
-			trace("n_date:"+date);
+			trace("date:"+date);
 
 			var hour:String=String(my_array[4]);
-			trace("n_week:"+hour);
+			trace("week:"+hour);
 
 			var minute:String=String(my_array[5]);
 			trace("minute:"+minute);
