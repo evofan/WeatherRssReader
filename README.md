@@ -1,18 +1,32 @@
 # WeatherRssReader
-Weather RSS reader for desktop apps.
+Weather RSS reader for desktop apps.  
+ãŠå¤©æ°—RSSãƒªãƒ¼ãƒ€ãƒ¼ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ã‚¢ãƒ—ãƒª  
 
-‘åÌ‚É‚Ù‚ÚFlash‚¾‚¯‚Åì‚ê‚é‚Ì‚ª–Ê”’‚»‚¤‚Åì‚Á‚½ƒfƒXƒNƒgƒbƒvƒAƒvƒŠB
-¡Œã•Ê‹Zp‚Å—‚½•¨‚ğì‚é‰Â”\«‚ª‚ ‚é‚Ì‚ÅAGitHubã‚É”õ–Y˜^‚Æ‚µ‚Ä•Û‘¶B
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png "image")  
 
-EƒfƒUƒCƒ“cFlashAPhotoshop(Bitmap•”•ª)
-EƒCƒ‰ƒXƒgcFlash(©—R‹Èü‚Åè‘‚«)
-EƒAƒjƒ[ƒVƒ‡ƒ“cFlash(ƒ^ƒCƒ€ƒ‰ƒCƒ“)
-EƒXƒNƒŠƒvƒgcFlash(AS2.0A8Š„ˆÊƒ^ƒCƒ€ƒ‰ƒCƒ“ã‚É‹Lq)
-E”FØccgi(’Pƒ‚ÉƒT[ƒo[‚Ì“ú•t‚ğ•Ô‚µ‚Ä”»•ÊA¡‰ñ‚ÌƒTƒ“ƒvƒ‹‚Í2020”N––‚Ü‚Å‹N“®‰Â)
-EAPIclivedoor‚ÌWeather Hacks‚ğ—˜—pAˆê“xd—l•ÏX‚Éfla“à‚ÌXMLƒp[ƒX•”•ª‚ğC³
-E.swf¨.exe•ÏŠ·cmProjetor(ŠJ”­”Ì”„I—¹EƒTƒCƒgÁ–ÅAƒAƒvƒŠ‚ÍWindowsXPE7E10‚Å“®ìŠm”F)
-E.png¨.ico•ÏŠ·cXP‘ã‚ÍƒtƒŠ[ƒ\ƒtƒgA¡‰ñ‚Íwebã‚Ì•ÏŠ·ƒTƒCƒg‚Å
-E‚»‚Ì‘¼cˆê“x‘I‘ğ‚µ‚½’nˆæ‚ğSharedObject‚Åƒ[ƒJƒ‹•Û‘¶AŸ‰ñ‹N“®‚É”½‰f
-E¡ì‚é‚È‚çcElectron(ƒAƒjƒ[ƒVƒ‡ƒ“‚ÍSpineH)‚©Air(Adobe‚©‚çˆÚŠÇ‚µ‚½H)
+**DOWNLOAD**  
+[https://github.com/evofan/WeatherRssReader/blob/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/blob/master/build/weatherRssReader_2020.exe)  
+â€»è­¦å‘ŠãŒå‡ºãŸå ´åˆã”è‡ªèº«ã®åˆ¤æ–­ã§å®Ÿè¡Œã—ã¦ä¸‹ã•ã„ã€‚  
+â€»ãŠç´„æŸã§ã™ãŒPCã«ä½•ã‚‰ã‹ã®æå®³ãŒå‡ºã¦ã‚‚è²¬ä»»ã¯ç„¡ã„ã‚‚ã®ã¨ã—ã¾ã™ã€‚
 
-¦ˆê•”.psd‚Æ.fla‚Í’†‚Ì\‘¢‚ª‚«‚½‚È‚­‚Ä’p‚¸‚©‚µ‚¢‚Ì‚Åpass•tˆ³k‚Å•Û‘¶B
+å¤§æ˜”ã«ã»ã¼Flashã ã‘ã§ä½œã‚Œã‚‹ã®ãŒé¢ç™½ãã†ã§ä½œã£ãŸãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ã‚¢ãƒ—ãƒªã€‚  
+ä»Šå¾Œåˆ¥æŠ€è¡“ã§ä¼¼ãŸç‰©ã‚’ä½œã‚‹å¯èƒ½æ€§ãŒã‚ã‚‹ã®ã§ã€GitHubä¸Šã«å‚™å¿˜éŒ²ã¨ã—ã¦ä¿å­˜ã€‚  
+
+ãƒ»ãƒ‡ã‚¶ã‚¤ãƒ³â€¦Flashã€Photoshop(Bitmapéƒ¨åˆ†)  
+ãƒ»ã‚¤ãƒ©ã‚¹ãƒˆâ€¦Flash(è‡ªç”±æ›²ç·šã§æ‰‹æ›¸ã)  
+ãƒ»ã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³â€¦Flash(ã‚¿ã‚¤ãƒ ãƒ©ã‚¤ãƒ³)  
+ãƒ»ã‚¹ã‚¯ãƒªãƒ—ãƒˆâ€¦Flash(AS2.0ã€8å‰²ä½ã‚¿ã‚¤ãƒ ãƒ©ã‚¤ãƒ³ä¸Šã«è¨˜è¿°)  
+ãƒ»èªè¨¼â€¦cgi(å˜ç´”ã«ã‚µãƒ¼ãƒãƒ¼ã®æ—¥ä»˜ã‚’è¿”ã—ã¦åˆ¤åˆ¥ã€ä»Šå›ã®ã‚µãƒ³ãƒ—ãƒ«ã¯2020å¹´æœ«ã¾ã§èµ·å‹•å¯)  
+ãƒ»APIâ€¦livedoorã®Weather Hacksã‚’åˆ©ç”¨ã€ä¸€åº¦ä»•æ§˜å¤‰æ›´æ™‚ã«flaå†…ã®XMLãƒ‘ãƒ¼ã‚¹éƒ¨åˆ†ã‚’ä¿®æ­£  
+ãƒ».swfâ†’.exeå¤‰æ›â€¦mProjetor(é–‹ç™ºè²©å£²çµ‚äº†ãƒ»ã‚µã‚¤ãƒˆæ¶ˆæ»…ã€ã‚¢ãƒ—ãƒªã¯WindowsXPãƒ»7ãƒ»10ã§å‹•ä½œç¢ºèª)  
+ãƒ».pngâ†’.icoå¤‰æ›â€¦XPæ™‚ä»£ã¯ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆã€ä»Šå›ã¯webä¸Šã®å¤‰æ›ã‚µã‚¤ãƒˆã§  
+ãƒ»ãã®ä»–â€¦ä¸€åº¦é¸æŠã—ãŸåœ°åŸŸã‚’SharedObjectã§ãƒ­ãƒ¼ã‚«ãƒ«ä¿å­˜ã€æ¬¡å›èµ·å‹•æ™‚ã«åæ˜   
+ãƒ»ä»Šä½œã‚‹ãªã‚‰â€¦Electron(ã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã¯Spineï¼Ÿ)ã‹Air(Adobeã‹ã‚‰ç§»ç®¡ã—ãŸï¼Ÿ)  
+
+â€»ä¸€éƒ¨.psdã¨.flaã¯ä¸­ã®æ§‹é€ ãŒããŸãªãã¦æ¥ãšã‹ã—ã„ã®ã§passä»˜åœ§ç¸®ã§ä¿å­˜ã€‚
+
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro2.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro2.png "image")  
+æ—§ãƒ‡ã‚¶ã‚¤ãƒ³ver.  
+
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro3.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro3.png "image")  
+ã‚¤ãƒ©ã‚¹ãƒˆ
