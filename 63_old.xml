@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:ldWeather="http://weather.livedoor.com/ns/rss/2.0">
+<channel>
+<title>東京都 - 東京の天気 - livedoor 天気情報</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss</link>
+<description>[ 東京都の天気概況 ] 東日本、西日本は日本の東にある高気圧に覆われています。一方、寒冷前線が東北地方を南下しています。
+現在、関東甲信地方は、概ね晴れていますが、関東地方北...</description>
+<lastBuildDate>Sat, 22 Sep 2007 17:00:00 +0900</lastBuildDate>
+
+<author>livedoor Weather Team.</author>
+<language>ja</language>
+<category>天気情報</category>
+<generator>http://weather.livedoor.com/</generator>
+<copyright>Copyright (C) 1996-2007 livedoor Co.,Ltd. All rights reserved.</copyright>
+<image>
+<title>livedoor 天気情報</title>
+<link>http://weather.livedoor.com</link>
+<url>http://image.weather.livedoor.com/img/cmn/livedoor.gif</url>
+<width>118</width>
+<height>26</height>
+</image>
+<ldWeather:provider name="（株）ハレックス" link="http://www.halex.co.jp/halexbrain/weather/" />
+<ldWeather:provider name="日本気象協会" link="http://tenki.jp/" />
+<ldWeather:notes link="http://weather.livedoor.com/weather_hacks/forum.html">livedoor 天気情報 Weather Hacks での疑問点などは http://weather.livedoor.com/weather_hacks/forum.html で質問してみましょう！</ldWeather:notes>
+
+<ldWeather:lwws id="63" />
+<item>
+  <title>[ PR ] ブログで東京都のお天気を簡単ゲット！</title>
+  <link>http://weather.livedoor.com/weather_hacks/plugin.html?pref=13</link>
+  <category>PR</category>
+  <description>
+livedoor 天気情報「Weather Hacks」では一般のブロガーの皆さん向けにブログでお天気を表示できる、お天気プラグインを公開しました。使い方はとってもカンタン！手順に沿って作成したHTMLソースを自分のブログに貼り付けるだけです！
+  </description>
+  <image>
+    <title>お天気プラグイン - livedoor 天気情報</title>
+    <link>http://weather.livedoor.com/weather_hacks/plugin.html?pref=13</link>
+    <url>http://image.weather.livedoor.com/img/weather_hacks/news_title.gif</url>
+    <width>151</width>
+    <height>50</height>
+  </image>  <pubDate>Sat, 21 Jul 2007 08:00:00 +0900</pubDate>
+</item>
+
+<item>
+<title>[ 22日（土）の天気 ] 東京 - 晴れ - 最高気温31℃ - 9月22日(土)</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070922</link>
+<category>天気予報</category>
+<day>Saturday</day>
+<image>
+<title>晴れ</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070922</link>
+<url>http://image.weather.livedoor.com/img/icon/1.gif</url>
+<width>50</width>
+<height>31</height>
+</image>
+<description>22日（土）の天気は晴れ、最高気温は31℃ 最低気温は23℃でしょう。</description>
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+</item>
+<item>
+<title>[ 23日（日）の天気 ] 東京 - 曇のち雨 - 最高気温26℃ - 9月23日(日)</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070923</link>
+<category>天気予報</category>
+<day>Sunday</day>
+<image>
+<title>曇のち雨</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070923</link>
+<url>http://image.weather.livedoor.com/img/icon/13.gif</url>
+<width>50</width>
+<height>31</height>
+</image>
+<description>23日（日）の天気は曇のち雨、最高気温は26℃ 最低気温は23℃でしょう。</description>
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+</item>
+
+
+<item>
+<title>[ 24日（月）の天気 ] 東京 - 曇時々雨 - 最高気温25℃ - 9月24日(月)</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070924</link>
+<category>天気予報</category>
+<day>Monday</day>
+<image>
+<title>曇時々雨</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070924</link>
+<url>http://image.weather.livedoor.com/img/icon/10.gif</url>
+<width>50</width>
+<height>31</height>
+</image>
+<description>24日（月）の天気は曇時々雨、最高気温は25℃ 最低気温は20℃でしょう。</description>
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+</item>
+<item>
+<title>[ 25日（火）の天気 ] 東京 - 晴時々曇 - 最高気温28℃ - 9月25日(火)</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070925</link>
+<category>天気予報</category>
+<day>Tuesday</day>
+<image>
+<title>晴時々曇</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070925</link>
+<url>http://image.weather.livedoor.com/img/icon/2.gif</url>
+<width>50</width>
+<height>31</height>
+</image>
+<description>25日（火）の天気は晴時々曇、最高気温は28℃ 最低気温は20℃でしょう。</description>
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+</item>
+<item>
+<title>[ 26日（水）の天気 ] 東京 - 晴時々曇 - 最高気温27℃ - 9月26日(水)</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070926</link>
+<category>天気予報</category>
+<day>Wednesday</day>
+<image>
+<title>晴時々曇</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070926</link>
+<url>http://image.weather.livedoor.com/img/icon/2.gif</url>
+<width>50</width>
+<height>31</height>
+</image>
+<description>26日（水）の天気は晴時々曇、最高気温は27℃ 最低気温は20℃でしょう。</description>
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+</item>
+<item>
+<title>[ 27日（木）の天気 ] 東京 - 晴時々曇 - 最高気温28℃ - 9月27日(木)</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070927</link>
+<category>天気予報</category>
+<day>Thursday</day>
+<image>
+<title>晴時々曇</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070927</link>
+<url>http://image.weather.livedoor.com/img/icon/2.gif</url>
+<width>50</width>
+<height>31</height>
+</image>
+<description>27日（木）の天気は晴時々曇、最高気温は28℃ 最低気温は20℃でしょう。</description>
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+</item>
+<item>
+<title>[ 28日（金）の天気 ] 東京 - 晴時々曇 - 最高気温29℃ - 9月28日(金)</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070928</link>
+<category>天気予報</category>
+<day>Friday</day>
+<image>
+<title>晴時々曇</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070928</link>
+<url>http://image.weather.livedoor.com/img/icon/2.gif</url>
+<width>50</width>
+<height>31</height>
+</image>
+<description>28日（金）の天気は晴時々曇、最高気温は29℃ 最低気温は22℃でしょう。</description>
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+</item>
+<item>
+<title>[ 29日（土）の天気 ] 東京 - 曇時々晴 - 最高気温27℃ - 9月29日(土)</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070929</link>
+<category>天気予報</category>
+<day>Saturday</day>
+<image>
+<title>曇時々晴</title>
+<link>http://weather.livedoor.com/area/13/63.html?r=rss20070929</link>
+<url>http://image.weather.livedoor.com/img/icon/9.gif</url>
+<width>50</width>
+<height>31</height>
+</image>
+<description>29日（土）の天気は曇時々晴、最高気温は27℃ 最低気温は22℃でしょう。</description>
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+</item>
+
+
+<pubDate>Sat, 22 Sep 2007 17:00:00 +0900</pubDate>
+<guid isPermaLink="true">http://weather.livedoor.com/area/13/63.html?r=rss</guid>
+</channel>
+</rss>
