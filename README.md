@@ -23,10 +23,8 @@ Weather RSS reader for desktop apps.
 ・その他…一度選択した地域をSharedObjectでローカル保存、次回起動時に反映  
 ・今作るなら…Electron(アニメーションはSpine？)かAir(Adobeから移管した？)  
 
-※一部.psdと.flaは中の構造がきたなくて恥ずかしいのでpass付圧縮で保存。
-
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro2.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro2.png "image")  
 旧デザインver.  
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro3.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro3.png "image")  
-イラスト
+イラスト  
