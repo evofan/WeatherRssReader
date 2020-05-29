@@ -5,7 +5,7 @@ Weather RSS reader for desktop apps.
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png "image")  
 
 **DOWNLOAD**  
-[https://github.com/evofan/WeatherRssReader/blob/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/blob/master/build/weatherRssReader_2020.exe)  
+[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe)  
 ※警告が出た場合ご自身の判断で実行して下さい。  
 ※お約束ですがPCに何らかの損害が出ても当方に責任は無いものとします。
 
