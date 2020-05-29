@@ -15,7 +15,7 @@
     <key>widget</key>
     <integer>0</integer>
     <key>version</key>
-    <integer>3.0.0</integer>
+    <integer>NaN</integer>
     <key>taskBar</key>
     <integer>1</integer>
     <key>systemTray</key>
@@ -43,7 +43,7 @@
     <key>maskPath</key>
     <string></string>
     <key>mainSWFPath</key>
-    <string>D%3A%2FweatherRssReader%5F2020%5F0521%2Eswf</string>
+    <string>D%3A%2FweatherRssReader%5F2020%5F0529%2Eswf</string>
     <key>macZOrder</key>
     <string>standard</string>
     <key>macWindowType</key>
@@ -53,7 +53,7 @@
     <key>macIconPath</key>
     <string></string>
     <key>destinationPath_mac</key>
-    <string>undefined</string>
+    <string>D%3A%2FweatherRssReader%5F2020%5F0529%2Eapp</string>
     <key>LSUIElement</key>
     <integer>1</integer>
     <key>launch</key>
