@@ -34,3 +34,7 @@ Weather RSS reader for desktop apps.
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro3.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro3.png "image")  
 イラスト  
+
+Angelscript detected as Actionscript #3841  
+[https://github.com/github/linguist/issues/3841](https://github.com/github/linguist/issues/3841)  
+私の場合、ActionScriptがAngelscript表記になっている
