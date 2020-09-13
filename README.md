@@ -41,4 +41,6 @@ Angelscript detected as Actionscript #3841
 
 ActionScript detected as AngelScript #4580  
 [https://github.com/github/linguist/issues/4580](https://github.com/github/linguist/issues/4580)  
-手動で上書きすれば直る？
+↑に書いてある通り、Linguistがどのように機能するかみて、  
+.gitattributesファイルで.asの拡張子を強制的にActionScriptとして認識するように上書きで解決😃。  
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_angel2action.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_angel2action.png "image")  
