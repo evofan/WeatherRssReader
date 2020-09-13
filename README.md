@@ -15,7 +15,7 @@ Weather RSS reader for desktop apps.
 ※警告が出た場合ご自身の判断で実行して下さい。  
 ※お約束ですがPCに何らかの損害が出ても当方に責任は無いものとします。~~
 
-大昔にほぼFlashだけで作れるのが面白そうで作ったデスクトップアプリ。  
+2007-2008年頃にほぼFlashだけで作れるのが面白そうで作ったデスクトップアプリ。  
 今後別技術で似た物を作る可能性があるので、GitHub上に備忘録として保存。  
 
 ・デザイン…Flash、Photoshop(Bitmap部分)  
@@ -37,10 +37,10 @@ Weather RSS reader for desktop apps.
 
 Angelscript detected as Actionscript #3841  
 [https://github.com/github/linguist/issues/3841](https://github.com/github/linguist/issues/3841)  
-私の場合、ActionScriptがAngelscript表記になっている  
+私の場合、ActionScriptがAngelScript表記になっている。  
 
 ActionScript detected as AngelScript #4580  
 [https://github.com/github/linguist/issues/4580](https://github.com/github/linguist/issues/4580)  
 ↑に書いてある通り、Linguistがどのように機能するかみて、  
-.gitattributesファイルで.asの拡張子を強制的にActionScriptとして認識するように上書きで解決😃。  
+.gitattributesファイルで.asの拡張子を強制的にActionScriptとして認識するように上書きで解決😃  
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_angel2action.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_angel2action.png "image")  
