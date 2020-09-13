@@ -2,10 +2,13 @@
 Weather RSS reader for desktop apps.  
 お天気RSSリーダー(デスクトップアプリ、日本全国版)  
 
-![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/pic_livedoor_notice.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/pic_livedoor_notice.jpg "image")  
-**↑2020/7でRSSサービス終了の為、起動しないです(エラー表示になります)。**  
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_livedoor_notice.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_livedoor_notice.jpg "image")  
+**↑2020/7でRSSサービス終了の為、起動しないです(エラー表示になります)。10年以上利用させて貰いました、感謝。**  
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png "image")  
+
+ヤフー版のお天気RSSにAPI差し替え検討中  
+[https://weather.yahoo.co.jp/weather/rss/](https://weather.yahoo.co.jp/weather/rss/)  
 
 **DOWNLOAD**  
 ~~[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe)  
