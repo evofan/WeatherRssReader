@@ -37,4 +37,8 @@ Weather RSS reader for desktop apps.
 
 Angelscript detected as Actionscript #3841  
 [https://github.com/github/linguist/issues/3841](https://github.com/github/linguist/issues/3841)  
-私の場合、ActionScriptがAngelscript表記になっている
+私の場合、ActionScriptがAngelscript表記になっている  
+
+ActionScript detected as AngelScript #4580  
+[https://github.com/github/linguist/issues/4580](https://github.com/github/linguist/issues/4580)  
+手動で上書きすれば直る？
