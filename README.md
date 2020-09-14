@@ -7,15 +7,21 @@ Weather RSS reader for desktop apps.
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png "image")  
 
-ヤフー版のお天気RSSにAPI差し替え検討中  
+ヤフー版のお天気RSSにAPI差し替え中  
 [https://weather.yahoo.co.jp/weather/rss/](https://weather.yahoo.co.jp/weather/rss/)  
+データ取得＆表示までok  
+・livedoorの時にあったdescriptionが無いのでレイアウト変える  
+（代わりに警報が有るが別RSSリンク）  
+・「晴一時曇」のように「〇一時〇」のアイコン作成＆遷移  
+・日付取得のCGIをPerl→Pythonに変更  
+・表示は東京固定で最後にプルダウン反映  
+
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_change_yahoo_api.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_change_yahoo_api.jpg "image")  
 
 **DOWNLOAD**  
-~~[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe)  
-※警告が出た場合ご自身の判断で実行して下さい。  
-※お約束ですがPCに何らかの損害が出ても当方に責任は無いものとします。~~
+~~[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe)~~  
 
-2007-2008年頃にほぼFlashだけで作れるのが面白そうで作ったデスクトップアプリ。  
+2007年頃にほぼFlashだけで作れるのが面白そうで作ったデスクトップアプリ。  
 今後別技術で似た物を作る可能性があるので、GitHub上に備忘録として保存。  
 
 ・デザイン…Flash、Photoshop(Bitmap部分)  
