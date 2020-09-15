@@ -3,7 +3,7 @@ Weather RSS reader for desktop apps.
 お天気RSSリーダー(デスクトップアプリ、日本全国版)  
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_livedoor_notice.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_livedoor_notice.jpg "image")  
-**↑2020/7でRSSサービス終了の為、起動しないです(エラー表示になります)。10年以上利用させて貰いました、感謝。**  
+**↑2020/7でRSSサービス終了の為、起動しないです(エラー表示になります)。**  
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png "image")  
 
@@ -16,18 +16,19 @@ Weather RSS reader for desktop apps.
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_pulldown_test.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_pulldown_test.jpg "image")  
 
 9/14 データ取得＆表示までok  
-・livedoorの時にあったdescriptionが無いのでレイアウト変える  
+・livedoorの時にあったdescription(文章の天気概要)が無いのでレイアウト変える  
 （代わりに警報が有るが別RSSリンク）  
 ・「晴一時曇」のように「〇一時〇」のアイコン作成＆遷移  
 ・日付取得のCGIをPerl→Pythonに変更  
-・表示は東京固定で最後にプルダウン反映  
+・表示は東京固定でテスト、後々に全国版プルダウン反映  
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_change_yahoo_api.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_change_yahoo_api.jpg "image")  
 
 **DOWNLOAD**  
 ~~[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe)~~  
+[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0915temp.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0915temp.exe)  
 
-2007年頃にほぼFlashだけで作れるのが面白そうで作ったデスクトップアプリ。  
+2007年にほぼFlashだけで作れるのが面白そうで作ったデスクトップアプリ。  
 今後別技術で似た物を作る可能性があるので、GitHub上に備忘録として保存。  
 
 ・デザイン…Flash、Photoshop(Bitmap部分)  
@@ -36,10 +37,10 @@ Weather RSS reader for desktop apps.
 ・スクリプト…Flash(AS2.0、8割位タイムライン上に記述)  
 ・認証…cgi(単純にサーバーの日付を返して判別、今回のサンプルは2020年末まで起動可)  
 ・API…livedoorのWeather Hacksを利用、一度仕様変更時にfla内のXMLパース部分を修正  
-・.swf→.exe変換…mProjetor(開発販売終了・サイト消滅、アプリはWindowsXP・7・10で動作確認)  
+・.swf→.exe変換…mProjetor(アプリはWindowsXP・7・10で動作確認)  
 ・.png→.ico変換…XP時代はフリーソフト、今回はweb上の変換サイトで  
 ・その他…一度選択した地域をSharedObjectでローカル保存、次回起動時に反映  
-・今作るなら…Electron(アニメーションはSpine？)かAir(Adobeから移管した？)  
+・今作るなら…Electron(アニメーションはSpine？)かAir(Adobeから移管)  
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro2.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro2.png "image")  
 旧デザインver.  
