@@ -7,9 +7,15 @@ Weather RSS reader for desktop apps.
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png "image")  
 
-ヤフー版のお天気RSSにAPI差し替え中  
+**ヤフー版のお天気RSSにAPI差し替え中**  
 [https://weather.yahoo.co.jp/weather/rss/](https://weather.yahoo.co.jp/weather/rss/)  
-データ取得＆表示までok  
+
+9/15 一通りAPI差し替えok  
+・プルダウン表示反映、1個ずつ確認する  
+・前にあった月表示入れる？  
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_pulldown_test.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_pulldown_test.jpg "image")  
+
+9/14 データ取得＆表示までok  
 ・livedoorの時にあったdescriptionが無いのでレイアウト変える  
 （代わりに警報が有るが別RSSリンク）  
 ・「晴一時曇」のように「〇一時〇」のアイコン作成＆遷移  
