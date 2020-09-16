@@ -12,7 +12,8 @@ Weather RSS reader for desktop apps.
 
 9/17  
 ・プルダウン道央のデータがundefinedになってたのを修正  
-・Windows DefenderとPanda Domeでウイルスチェック  
+・Windows Defenderでウイルスチェック  
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png "image")  
 
 9/15 一通りAPI差し替えok  
 ・プルダウン表示反映、1個ずつ確認する  
