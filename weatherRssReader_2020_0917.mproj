@@ -5,13 +5,13 @@
     <key>aboutSWFPath</key>
     <string></string>
     <key>winIconPath</key>
-    <string>D%3A%2Ficon05%2Eico</string>
+    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2Ficon05%2Eico</string>
     <key>windowType</key>
     <string>flashShaped</string>
     <key>windowAlpha</key>
     <integer>100</integer>
     <key>destinationPath_win</key>
-    <string>D%3A%2FweatherRssReader%5F2020%5F0915%2Eexe</string>
+    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2020%5F0917%2Eexe</string>
     <key>widget</key>
     <integer>0</integer>
     <key>version</key>
@@ -35,7 +35,7 @@
         <string>mSystem</string>
     </array>
     <key>playerVersion_win</key>
-    <string>Flash 9.0 r16.ocx</string>
+    <string>Flash 9.0 r115.ocx</string>
     <key>openTraceViewer</key>
     <integer>0</integer>
     <key>omitTrace</key>
@@ -43,7 +43,7 @@
     <key>maskPath</key>
     <string></string>
     <key>mainSWFPath</key>
-    <string>D%3A%2FweatherRssReader%5F2020%5F0915%2Eswf</string>
+    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2020%5F0917%2Eswf</string>
     <key>macZOrder</key>
     <string>standard</string>
     <key>macWindowType</key>
@@ -53,7 +53,7 @@
     <key>macIconPath</key>
     <string></string>
     <key>destinationPath_mac</key>
-    <string>D%3A%2FweatherRssReader%5F2020%5F0915%2Eapp</string>
+    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2020%5F0917%2Eapp</string>
     <key>LSUIElement</key>
     <integer>1</integer>
     <key>launch</key>
@@ -85,7 +85,7 @@
     <key>as3</key>
     <integer>0</integer>
     <key>applicationTitle</key>
-    <string>weatherRssReader_2020_0915</string>
+    <string>weatherRssReader_2020_0917</string>
     <key>additionalFiles</key>
     <array>
     </array>
