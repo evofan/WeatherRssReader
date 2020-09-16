@@ -10,6 +10,10 @@ Weather RSS reader for desktop apps.
 **ヤフー版のお天気RSSにAPI差し替え中**  
 [https://weather.yahoo.co.jp/weather/rss/](https://weather.yahoo.co.jp/weather/rss/)  
 
+9/17  
+・プルダウン道央のデータがundefinedになってたのを修正  
+・Windows DefenderとPanda Domeでウイルスチェック  
+
 9/15 一通りAPI差し替えok  
 ・プルダウン表示反映、1個ずつ確認する  
 ・前にあった月表示入れる？  
@@ -26,7 +30,7 @@ Weather RSS reader for desktop apps.
 
 **DOWNLOAD**  
 ~~[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe)~~  
-[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0915temp.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0915temp.exe)  
+[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0917.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0917.exe)  
 
 2007年にほぼFlashだけで作れるのが面白そうで作ったデスクトップアプリ。  
 今後別技術で似た物を作る可能性があるので、GitHub上に備忘録として保存。  
