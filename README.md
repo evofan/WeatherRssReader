@@ -2,18 +2,17 @@
 Weather RSS reader for desktop apps.  
 お天気RSSリーダー(デスクトップアプリ、日本全国版)  
 
-![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_livedoor_notice.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_livedoor_notice.jpg "image")  
-**↑2020/7でRSSサービス終了の為、起動しないです(エラー表示になります)。**  
+**DOWNLOAD**  
+[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0917.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0917.exe)  
 
-![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_screenshot_mpro1.png "image")  
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png "image")  
 
-**ヤフー版のお天気RSSにAPI差し替え中**  
+**ヤフー版のお天気RSSにAPI差し替え**  
 [https://weather.yahoo.co.jp/weather/rss/](https://weather.yahoo.co.jp/weather/rss/)  
 
 9/17  
 ・プルダウン道央のデータがundefinedになってたのを修正  
 ・Windows Defenderでウイルスチェック  
-![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png "image")  
 
 9/15 一通りAPI差し替えok  
 ・プルダウン表示反映、1個ずつ確認する  
@@ -29,9 +28,10 @@ Weather RSS reader for desktop apps.
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_change_yahoo_api.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_change_yahoo_api.jpg "image")  
 
-**DOWNLOAD**  
-~~[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020.exe)~~  
-[https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0917.exe](https://github.com/evofan/WeatherRssReader/raw/master/build/weatherRssReader_2020_0917.exe)  
+![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_livedoor_notice.jpg](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_livedoor_notice.jpg "image")  
+**↑2020/7でRSSサービス終了**  
+
+memo  
 
 2007年にほぼFlashだけで作れるのが面白そうで作ったデスクトップアプリ。  
 今後別技術で似た物を作る可能性があるので、GitHub上に備忘録として保存。  
