@@ -62,3 +62,10 @@ ActionScript detected as AngelScript #4580
 ↑に書いてある通り、Linguistがどのように機能するかみて、  
 .gitattributesファイルで.asの拡張子を強制的にActionScriptとして認識するように上書きで解決😃  
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_angel2action.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_angel2action.png "image")  
+
+reference  
+
+**About releases - GitHub Docs**  
+[https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-releases#about-releases](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-releases#about-releases)  
+It looks like you're using GitHub Pages to distribute binary files.  
+We strongly suggest that you use releases to ship projects on GitHub.  
