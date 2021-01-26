@@ -35,7 +35,7 @@
             var minute:String = String(my_array[5]);
             trace("minute:" + minute);
 
-            if (year == 2020 && month <= 12) {
+            if (year == 2021 && month <= 12) {
                 trace("certification ok")
                 gotoAndPlay("xml_load_start") // xmlデータ読み込み中表示フレームへ
             } else {

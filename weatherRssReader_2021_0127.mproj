@@ -11,11 +11,11 @@
     <key>windowAlpha</key>
     <integer>100</integer>
     <key>destinationPath_win</key>
-    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2020%5F0917%2Eexe</string>
+    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2021%5F0127%2Eexe</string>
     <key>widget</key>
     <integer>0</integer>
     <key>version</key>
-    <integer>3.0.0</integer>
+    <string>NaN</string>
     <key>taskBar</key>
     <integer>1</integer>
     <key>systemTray</key>
@@ -43,7 +43,7 @@
     <key>maskPath</key>
     <string></string>
     <key>mainSWFPath</key>
-    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2020%5F0917%2Eswf</string>
+    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2021%5F0127%2Eswf</string>
     <key>macZOrder</key>
     <string>standard</string>
     <key>macWindowType</key>
@@ -53,7 +53,7 @@
     <key>macIconPath</key>
     <string></string>
     <key>destinationPath_mac</key>
-    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2020%5F0917%2Eapp</string>
+    <string>C%3A%2FDocuments%20and%20Settings%2Fuser1%2F%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%2FweatherRssReader%5F2021%5F0127%2Eapp</string>
     <key>LSUIElement</key>
     <integer>1</integer>
     <key>launch</key>
@@ -85,7 +85,7 @@
     <key>as3</key>
     <integer>0</integer>
     <key>applicationTitle</key>
-    <string>weatherRssReader_2020_0917</string>
+    <string>weatherRssReader_2021_0127</string>
     <key>additionalFiles</key>
     <array>
     </array>
