@@ -3,9 +3,13 @@ Weather RSS reader for desktop apps.
 お天気RSSリーダー(デスクトップアプリ、日本全国版)  
 
 **DOWNLOAD**  
-右メニューのReleasesからweatherRssReader_2020_0917.zipをダウンロード。  
+右メニューのReleasesからlatestのzipファイルをダウンロード。  
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png "image")  
+
+2020/1/27  
+・認証エラーを修正(cgiのフォルダにBasic認証が掛かってたので解除)  
+・使用期限を2020/12までに更新  
 
 **2020/9からヤフー版のお天気RSSにAPI差し替え**  
 [https://weather.yahoo.co.jp/weather/rss/](https://weather.yahoo.co.jp/weather/rss/)  
