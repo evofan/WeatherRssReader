@@ -7,6 +7,11 @@ Weather RSS reader for desktop apps.
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png "image")  
 
+2022/1/24  
+・ver.の日付フォントはCentury Gothic(GOTHIC.TTF)  
+[https://docs.microsoft.com/ja-jp/typography/font-list/century-gothic](https://docs.microsoft.com/ja-jp/typography/font-list/century-gothic)  
+・使用期限を2022/12までに更新
+
 2021/1/27  
 ・認証エラーを修正(cgiのフォルダにBasic認証が掛かってたので解除)  
 ・使用期限を2021/12までに更新  
