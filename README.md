@@ -2,8 +2,12 @@
 Weather RSS reader for desktop apps.  
 お天気RSSリーダー(デスクトップアプリ、日本全国版)  
 
-**DOWNLOAD**  
-右メニューのReleasesからlatestのzipファイルをダウンロード。  
+<img src="https://evofan.github.io/WeatherRssReader/screenshot/pic_yahoo_end.jpg" width="50%">  
+
+**↑2022/3でRSSサービス終了**  
+
+<s>**DOWNLOAD**  
+右メニューのReleasesからlatestのzipファイルをダウンロード。</s>  
 
 ![https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png](https://raw.githubusercontent.com/evofan/WeatherRssReader/master/screenshot/pic_locale_sapporo.png "image")  
 
@@ -51,7 +55,6 @@ memo
 ・スクリプト…Flash(AS2.0、8割位タイムライン上に記述)  
 ・認証…cgi(単純にサーバーの日付を返して判別、今回のサンプルは2020年末まで起動可)  
 ・API…livedoorのWeather Hacksを利用、一度仕様変更時にfla内のXMLパース部分を修正  
-・.swf→.exe変換…mProjetor(アプリはWindowsXP・7・10で動作確認)  
 ・.png→.ico変換…XP時代はフリーソフト、今回はweb上の変換サイトで  
 ・その他…一度選択した地域をSharedObjectでローカル保存、次回起動時に反映  
 ・今作るなら…Electron(アニメーションはSpine？)かAir(Adobeから移管)  
@@ -64,7 +67,7 @@ memo
 
 Angelscript detected as Actionscript #3841  
 [https://github.com/github/linguist/issues/3841](https://github.com/github/linguist/issues/3841)  
-私の場合、ActionScriptがAngelScript表記になっている。  
+ActionScriptがAngelScript表記になっていた。  
 
 ActionScript detected as AngelScript #4580  
 [https://github.com/github/linguist/issues/4580](https://github.com/github/linguist/issues/4580)  
